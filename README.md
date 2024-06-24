@@ -13,4 +13,4 @@ Responsive Design (Mobile First): The project is designed with a mobile-first ap
 Our VR Glasses Online Shop provides a comprehensive platform where customers can explore, compare, and select VR glasses products tailored to their preferences. By leveraging modern web technologies and design principles, we aim to deliver an engaging and user-friendly shopping experience in the exciting world of virtual reality.
 # Link to the page:
 
-[DEMO LINK]()
+[DEMO LINK](https://lmuias.github.io/KateVr-landing/)
